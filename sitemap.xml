@@ -5,7 +5,7 @@
     <lastmod>2026-03-30T18:47:04.721Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/-who-would&#39;ve-won-march-madness-in-2020/index.html</loc>
+    <loc>https://your-website-url.example.com/posts/-who-would&amp;#39;ve-won-march-madness-in-2020/index.html</loc>
     <lastmod>2026-04-10T20:45:50.925Z</lastmod>
   </url>
   <url>
@@ -19,5 +19,13 @@
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
     <lastmod>2026-03-30T18:49:45.988Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/-who-would&amp;#39;ve-won-march-madness-in-2020/index.html</loc>
+    <lastmod>2026-04-10T20:51:02.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/-who-would&#39;ve-won-march-madness-in-2020/index.html</loc>
+    <lastmod>2026-04-10T20:51:02.618Z</lastmod>
   </url>
 </urlset>
